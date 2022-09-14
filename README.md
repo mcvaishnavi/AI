@@ -17,6 +17,10 @@ FastAPI output
 
  tried to implement sequential model but ran into complications so didn't proceed with that
  
+ ## 4. Basics.ipynb:
+ 
+ practiced basics and data structures of python
+ 
  
 
 
