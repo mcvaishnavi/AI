@@ -2,7 +2,8 @@
 # EMOTION CLASSIFICATION FROM TEXT
 ## Notebook:
 ## 1. main_py.py :
-
+ 
+ Steps included in building the model - 
  1)Loading dataset
  2)Data cleaning and preprocessing
  3)train-test-split
@@ -11,7 +12,7 @@
 
 ## 2. output.ipynb:
 
-FastAPI output
+Deployment of model as API using FastApi
 
 ## 3. mcvaishnaviAI.ipynb:
 
@@ -22,6 +23,8 @@ FastAPI output
  practiced basics and data structures of python
  
  ## Dataset: train.txt
+ 
+ ## accuracy : 78.7% using Naive Bayes MultinomialNB
  
  
 
